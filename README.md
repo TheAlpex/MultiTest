@@ -14,3 +14,6 @@ I will take the back-end and my friend the front-end
 (3/11/2026)
 We both made our prototypes of are corresponding work
 While also uploading them here
+
+(7/11/2026)
+We added the ability for the user to keep playing, to view his money and decide when to stop
